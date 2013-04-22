@@ -81,7 +81,7 @@ public final class CharsToNameCanonicalizer
      * 
      * @since 1.9.9
      */
-    final static int MAX_COLL_CHAIN_LENGTH = 255;
+    final static int MAX_COLL_CHAIN_LENGTH = 2048;
 
     /**
      * And to support reduce likelihood of accidental collisons causing
